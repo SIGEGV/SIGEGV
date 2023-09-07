@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SIGEGV
 - 👀 I’m interested in backend;
-- 🌱 I’m currently learning  C++, CSE(AI-ML),PYTHON,swift;
+- 🌱 I’m currently learning  C++,PYTHON;
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me  officialyashdobriyal@gmail.com
