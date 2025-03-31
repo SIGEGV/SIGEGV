@@ -1,29 +1,39 @@
-🚀 Hi, I'm Yash (@SIGEGV)
+# 🚀 Hi, I'm Yash (@SIGEGV)  
 
-🔹 Backend Developer | System Architect | Open-Source Contributor
-👨‍💻 About Me
-👀 Passionate about backend development, specializing in scalable and high-performance systems
+## 🔹 Backend Developer | System Architect | Open-Source Contributor  
 
-🌱 Currently exploring C++, Python, and advanced system architecture
+---
 
-💡 Tech Stack:
+## 👨‍💻 About Me  
+- 👀 Passionate about **backend development**, specializing in **scalable and high-performance systems**  
+- 🌱 Currently exploring **C++, Python, and advanced system architecture**  
 
-🛠️ Languages: JavaScript, TypeScript, C++, Python
+---
 
-⚙️ Backend: Node.js, Express.js, NestJS
+## 💡 Tech Stack  
 
-🗄️ Databases: PostgreSQL, MongoDB, Redis
+### 🛠️ Languages  
+- JavaScript, TypeScript, C++, Python  
 
-📦 Tools & DevOps: Docker, Kubernetes, AWS, CI/CD
+### ⚙️ Backend  
+- Node.js, Express.js, NestJS  
 
-🚀 What I Do
-🔹 Designing and developing robust, scalable, and secure backend architectures
+### 🗄️ Databases  
+- PostgreSQL, MongoDB, Redis  
 
-🔹 Optimizing performance and ensuring reliability in distributed systems
+### 📦 Tools & DevOps  
+- Docker, Kubernetes, AWS, CI/CD  
 
-🔹 Collaborating on open-source projects to improve backend technologies
+---
 
-📫 Get in Touch
-📩 Email: officialyashdobriyal@gmail.com
-💡 Let's connect and build something impactful! 🚀
+## 🚀 What I Do  
+- 🔹 **Designing and developing** robust, scalable, and secure backend architectures  
+- 🔹 **Optimizing performance** and ensuring reliability in distributed systems  
+- 🔹 **Collaborating on open-source projects** to improve backend technologies  
 
+---
+
+## 📫 Get in Touch  
+📩 **Email:** [officialyashdobriyal@gmail.com](mailto:officialyashdobriyal@gmail.com)  
+
+💡 **Let's connect and build something impactful!** 🚀  
